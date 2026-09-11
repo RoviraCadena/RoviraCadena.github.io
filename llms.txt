@@ -6,13 +6,14 @@
 - Desarrollo web: sitios corporativos y portafolios en WordPress/Elementor o sitios estáticos (Astro, HTML/CSS/JS).
 - SEO técnico: arquitectura, rendimiento, datos estructurados (JSON-LD), auditorías, GA4 y Google Search Console.
 - GEO: contenido y marcado para aparecer en respuestas de motores de IA (ChatGPT, Gemini, Perplexity, AI Overviews).
+- Proyectos con IA: generación de contenido GEO, reportes automatizados y desarrollo con agentes de IA.
 - Martech y operación web: email marketing, landings de campaña, localización multi-país y automatización de reportes.
 
 ## Proyectos
 - [PG Ingeniería](https://pgingenieria.com/): sitio corporativo en WordPress + Elementor para una firma colombiana de ingeniería eléctrica y tecnología.
 - [LY Fotografía](https://lyfotografia.com/): portafolio de fotografía documental con galerías y visor a medida.
-- [Proximity BBDO — The People](https://www.proximitybbdo.com.co/talento-proximity): página de talento de la agencia, grilla editorial responsive.
-- Estudio Casa Marín: sitio narrativo de scroll en Astro + GSAP (en desarrollo).
+- ASUS Latinoamérica ([CO](https://www.asus.com/co/), [CL](https://www.asus.com/cl/), [PE](https://www.asus.com/pe/)): webmaster territorial de los sitios oficiales en 7 países de la región.
+- [Proximity BBDO](https://www.proximitybbdo.com.co/): sitio de la agencia de la red BBDO en Colombia, incluida la página de talento.
 
 ## Contacto
 - [Sitio](https://roviracadena.github.io/)

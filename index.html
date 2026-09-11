@@ -79,13 +79,13 @@
 
 <header class="nav" id="top">
   <div class="wrap nav__in">
-    <a class="logo" href="#top" aria-label="Inicio">rc<span class="logo__dot"></span></a>
+    <a class="logo" href="#top" aria-label="Sebastián Rovira — inicio"><svg class="logo__mark" viewBox="93 46 79 130" aria-hidden="true"><path d="M95,65 L110.4,56.3 L110.4,173.6 L95,165 Z M110,56.5 L125,48 L140,56.5 L140,73.5 L125.5,82 L140,90.5 L140,104 L125,112.5 L125,99.5 L110,91 L110,90 L125,81.5 L125,65 Z M125,116.5 L155,99 L170,107.5 L170,124.5 L155,133 L155,116.5 L140,108 L140,172.5 L125,164 Z M155,148 L170,156.5 L170,173.5 L140,173.5 L155,165 Z"/></svg><span class="logo__txt">rovira<b>.</b></span></a>
     <nav aria-label="Principal">
       <ul class="nav__links">
         <li><a href="#servicios">Servicios</a></li>
         <li><a href="#proyectos">Proyectos</a></li>
-        <li><a href="#lab">Lab</a></li>
-        <li><a href="#experiencia">Experiencia</a></li>
+        <li><a href="#ia">IA</a></li>
+        <li><a href="#stack">Stack</a></li>
       </ul>
     </nav>
     <a class="btn btn--sm" href="#contacto">Hablemos</a>
@@ -96,9 +96,9 @@
 
   <!-- HERO -->
   <section class="hero wrap">
-    <p class="eyebrow"><span class="pulse" aria-hidden="true"></span> Disponible para proyectos freelance · Bogotá, CO</p>
+    <p class="eyebrow"><span class="pulse" aria-hidden="true"></span> Disponible para proyectos freelance · Bogotá → LATAM</p>
     <h1 class="hero__title">Construyo sitios que se <em>encuentran</em>.<br><span class="muted">En Google y en las respuestas de la IA.</span></h1>
-    <p class="hero__lead">Soy <strong>Sebastián Rovira</strong>, desarrollador web y especialista en SEO y GEO. Opero la presencia digital de una marca global de tecnología en Latinoamérica y, en paralelo, diseño y desarrollo sitios para empresas y proyectos independientes.</p>
+    <p class="hero__lead">Soy <strong>Sebastián Rovira</strong>, desarrollador web y especialista en SEO y GEO. Gestiono los sitios oficiales de ASUS en siete países de Latinoamérica y, en paralelo, desarrollo sitios para marcas, agencias y proyectos independientes.</p>
     <div class="hero__cta">
       <a class="btn" href="#proyectos">Ver proyectos</a>
       <a class="btn btn--ghost" href="#contacto">Escribirme →</a>
@@ -155,7 +155,34 @@
       <h2>Trabajo reciente</h2>
     </header>
 
-    <article class="project">
+    <article class="project project--feature">
+      <div class="trio" aria-label="Sitios oficiales de ASUS en Colombia, Chile y Perú">
+        <a class="shot trio__item trio__item--3" href="https://www.asus.com/pe/" target="_blank" rel="noopener">
+          <div class="shot__bar"><i></i><i></i><i></i><span>asus.com/pe</span></div>
+          <div class="shot__img"><img src="img/asus-pe.jpg" alt="Home de ASUS Perú" loading="lazy" width="1206" height="806"></div>
+        </a>
+        <a class="shot trio__item trio__item--2" href="https://www.asus.com/cl/" target="_blank" rel="noopener">
+          <div class="shot__bar"><i></i><i></i><i></i><span>asus.com/cl</span></div>
+          <div class="shot__img"><img src="img/asus-cl.jpg" alt="Home de ASUS Chile" loading="lazy" width="1206" height="806"></div>
+        </a>
+        <a class="shot trio__item trio__item--1" href="https://www.asus.com/co/" target="_blank" rel="noopener">
+          <div class="shot__bar"><i></i><i></i><i></i><span>asus.com/co</span></div>
+          <div class="shot__img"><img src="img/asus-co.jpg" alt="Home de ASUS Colombia" loading="lazy" width="1206" height="806"></div>
+        </a>
+      </div>
+      <div class="project__txt">
+        <p class="project__meta">Actual · Sitios oficiales · 7 países</p>
+        <h3>ASUS Latinoamérica</h3>
+        <p>Webmaster territorial de los sitios oficiales de ASUS en la región: Colombia, Chile y Perú de punta a punta, y soporte a Argentina, Ecuador, Uruguay y Paraguay. Operación del sitio y la tienda, landings de campaña, email marketing y estrategia SEO/GEO para cada mercado.</p>
+        <ul class="countries" aria-label="Países">
+          <li class="on">CO</li><li class="on">CL</li><li class="on">PE</li><li>AR</li><li>EC</li><li>UY</li><li>PY</li>
+        </ul>
+        <ul class="chips"><li>Operación multi-país</li><li>Landings de campaña</li><li>Email marketing</li><li>SEO/GEO</li><li>Localización</li></ul>
+        <p class="links"><a class="link" href="https://www.asus.com/co/" target="_blank" rel="noopener">asus.com/co ↗</a><a class="link" href="https://www.asus.com/cl/" target="_blank" rel="noopener">/cl ↗</a><a class="link" href="https://www.asus.com/pe/" target="_blank" rel="noopener">/pe ↗</a></p>
+      </div>
+    </article>
+
+    <article class="project project--rev">
       <a class="shot" href="https://pgingenieria.com/" target="_blank" rel="noopener">
         <div class="shot__bar"><i></i><i></i><i></i><span>pgingenieria.com</span></div>
         <div class="shot__img shot__img--pg"><img src="img/pg.jpg" alt="Home del sitio de PG Ingeniería" loading="lazy" width="1206" height="806" onerror="this.remove()"></div>
@@ -169,21 +196,21 @@
       </div>
     </article>
 
-    <article class="project project--rev">
-      <a class="shot" href="https://www.proximitybbdo.com.co/talento-proximity" target="_blank" rel="noopener">
-        <div class="shot__bar"><i></i><i></i><i></i><span>proximitybbdo.com.co/talento-proximity</span></div>
-        <div class="shot__img shot__img--px"><img src="img/proximity.jpg" alt="Página de talento de Proximity BBDO" loading="lazy" width="1206" height="806" onerror="this.remove()"></div>
+    <article class="project">
+      <a class="shot" href="https://www.proximitybbdo.com.co/" target="_blank" rel="noopener">
+        <div class="shot__bar"><i></i><i></i><i></i><span>proximitybbdo.com.co</span></div>
+        <div class="shot__img shot__img--px"><img src="img/proximity-home.jpg" alt="Sitio de Proximity BBDO Colombia" loading="lazy" width="1206" height="806"></div>
       </a>
       <div class="project__txt">
-        <p class="project__meta">Agencia · Página de talento</p>
-        <h3>Proximity BBDO — The People</h3>
-        <p>Página de equipo para la agencia de marketing y publicidad de la red BBDO en Colombia: una grilla editorial con más de 150 integrantes, retratos del liderazgo y las formas geométricas de la marca, adaptada a todos los dispositivos.</p>
-        <ul class="chips"><li>Front-end</li><li>Layout editorial</li><li>Responsive</li></ul>
-        <a class="link" href="https://www.proximitybbdo.com.co/talento-proximity" target="_blank" rel="noopener">Visitar página ↗</a>
+        <p class="project__meta">Agencia · Sitio corporativo</p>
+        <h3>Proximity BBDO</h3>
+        <p>Sitio de la agencia de la red BBDO en Colombia: home con video de marca, casos de éxito, equipo y red global, más la página de talento con más de 150 integrantes. Maquetación editorial, animaciones y responsive.</p>
+        <ul class="chips"><li>Webflow</li><li>Front-end</li><li>Layout editorial</li><li>Responsive</li></ul>
+        <a class="link" href="https://www.proximitybbdo.com.co/" target="_blank" rel="noopener">Visitar sitio ↗</a>
       </div>
     </article>
 
-    <article class="project">
+    <article class="project project--rev">
       <a class="shot" href="https://lyfotografia.com/" target="_blank" rel="noopener">
         <div class="shot__bar"><i></i><i></i><i></i><span>lyfotografia.com</span></div>
         <div class="shot__img shot__img--ly"><img src="img/ly.jpg" alt="Home del portafolio LY Fotografía" loading="lazy" width="1206" height="806" onerror="this.remove()"></div>
@@ -197,46 +224,48 @@
       </div>
     </article>
 
-    <article class="project project--rev">
-      <div class="shot shot--soon">
+    <!-- Estudio Casa Marín: oculto hasta lanzamiento
+    <article class="project project—rev">
+      <div class="shot shot—soon">
         <div class="shot__bar"><i></i><i></i><i></i><span>estudiocasamarin.com</span></div>
-        <div class="shot__img shot__img--casa"><span>Scroll&nbsp;journey</span></div>
+        <div class="shot__img shot__img—casa"><span>Scroll&nbsp;journey</span></div>
       </div>
       <div class="project__txt">
         <p class="project__meta">En desarrollo · Sitio narrativo</p>
         <h3>Estudio Casa Marín</h3>
         <p>Sitio tipo “scroll journey” para un estudio de cortinas, carpintería y acabados: una historia en capítulos en lugar de la estructura de secciones de siempre. Estático, liviano y con animaciones fluidas.</p>
         <ul class="chips"><li>Astro</li><li>GSAP ScrollTrigger</li><li>Lenis</li><li>Tipografía self-hosted</li></ul>
-        <span class="link link--off">Próximamente</span>
+        <span class="link link—off">Próximamente</span>
       </div>
     </article>
+    -->
   </section>
 
   <!-- LAB -->
-  <section class="section wrap" id="lab">
+  <section class="section wrap" id="ia">
     <header class="section__head">
-      <p class="kicker">03 — Lab</p>
-      <h2>Proyectos propios</h2>
-      <p class="section__sub">Herramientas que construyo para automatizar lo repetitivo y probar ideas de SEO y GEO.</p>
+      <p class="kicker">03 — IA</p>
+      <h2>Proyectos con IA</h2>
+      <p class="section__sub">Sistemas propios donde la IA hace el trabajo repetitivo y yo diseño el flujo, las reglas y el control de calidad.</p>
     </header>
     <div class="grid grid--3">
       <article class="card card--lab">
         <p class="card__tag">IA · GEO</p>
-        <h3>Motor GEO con IA</h3>
-        <p>App construida en Google AI Studio con Gemini que, a partir de una ficha de producto, genera FAQs, metadatos y bloques JSON-LD localizados por país. Pensada para ganar presencia en búsquedas sin clic y en respuestas de IA.</p>
-        <ul class="chips"><li>Gemini</li><li>AI Studio</li><li>JSON-LD</li></ul>
+        <h3>Contenido GEO asistido por IA</h3>
+        <p>Genera preguntas frecuentes, metadatos y datos estructurados listos para publicar a partir de una ficha de producto, adaptados al lenguaje de cada país.</p>
+        <ul class="chips"><li>IA generativa</li><li>JSON-LD</li><li>Localización</li></ul>
       </article>
       <article class="card card--lab">
-        <p class="card__tag">Datos · Automatización</p>
-        <h3>Dashboard SEO/GEO multi-país</h3>
-        <p>Tablero mensual que consolida GA4 y Semrush con Google Apps Script y Sheets, y lo convierte en un scorecard narrativo: highlights, lowlights y foco del mes, listo para presentar.</p>
-        <ul class="chips"><li>Apps Script</li><li>GA4</li><li>Semrush</li><li>clasp</li></ul>
+        <p class="card__tag">IA · Datos</p>
+        <h3>Reportes que se escriben solos</h3>
+        <p>Consolida analítica web y SEO de varios mercados y la IA redacta el resumen ejecutivo: lo que subió, lo que bajó y dónde enfocarse el próximo mes.</p>
+        <ul class="chips"><li>Automatización</li><li>Analítica</li><li>IA generativa</li></ul>
       </article>
       <article class="card card--lab">
-        <p class="card__tag">Automatización personal</p>
-        <h3>Motor de finanzas</h3>
-        <p>Sistema que lee notificaciones bancarias del correo, categoriza los movimientos y alimenta un tablero web con presupuesto, metas de ahorro y alertas semanales.</p>
-        <ul class="chips"><li>Apps Script</li><li>Gmail API</li><li>Web App</li></ul>
+        <p class="card__tag">IA · Desarrollo</p>
+        <h3>Desarrollo con agentes de IA</h3>
+        <p>Flujo de trabajo con agentes de IA para prototipar, escribir código y automatizar tareas: de la idea a un sitio publicado en horas, con revisión humana en cada paso.</p>
+        <ul class="chips"><li>Agentes</li><li>Automatización</li><li>Prototipado</li></ul>
       </article>
     </div>
   </section>
@@ -249,56 +278,21 @@
     </header>
     <ol class="steps">
       <li><span>01</span><h3>Diagnóstico</h3><p>Qué tienes, qué busca tu cliente y cómo te encuentran hoy.</p></li>
-      <li><span>02</span><h3>Arquitectura</h3><p>Mapa del sitio, contenido y datos estructurados antes de diseñar.</p></li>
+      <li><span>02</span><h3>Arquitectura</h3><p>Mapa del sitio, contenido y datos estructurados antes de desarrollar.</p></li>
       <li><span>03</span><h3>Construcción</h3><p>Diseño y desarrollo por secciones, con revisiones cortas.</p></li>
       <li><span>04</span><h3>Medición</h3><p>Search Console, GA4 y seguimiento de visibilidad en IA.</p></li>
     </ol>
   </section>
 
-  <!-- EXPERIENCIA -->
-  <section class="section wrap" id="experiencia">
+  <!-- STACK -->
+  <section class="section wrap" id="stack">
     <header class="section__head">
-      <p class="kicker">05 — Experiencia</p>
-      <h2>Dónde lo aplico</h2>
+      <p class="kicker">05 — Stack</p>
+      <h2>Herramientas</h2>
     </header>
-    <div class="exp">
-      <div class="exp__role">
-        <h3>Territorial Webmaster · LATAM</h3>
-        <p class="exp__org">ASUS</p>
-      </div>
-      <div class="exp__body">
-        <p>Responsable del sitio oficial, email marketing y estrategia SEO/GEO para Colombia, Chile y Perú, con soporte a otros mercados de la región.</p>
-        <ul class="list">
-          <li>Operación y publicación de contenido del sitio oficial y la tienda en línea en varios países.</li>
-          <li>Landings de campaña y micrositios promocionales en HTML/CSS dentro del CMS corporativo.</li>
-          <li>Localización de contenido al español por mercado, con investigación de keywords por país.</li>
-          <li>Estrategia SEO/GEO: FAQs, datos estructurados y reportes mensuales de desempeño.</li>
-        </ul>
-      </div>
-    </div>
-    <div class="exp">
-      <div class="exp__role">
-        <h3>Diseño y desarrollo web freelance</h3>
-        <p class="exp__org">Independiente</p>
-      </div>
-      <div class="exp__body">
-        <p>Sitios y piezas digitales para agencias y empresas de ingeniería, consultoría, agro y exportación. Los proyectos de diseño gráfico anteriores están en <a href="https://www.behance.net/roviracadena" target="_blank" rel="noopener">Behance ↗</a>.</p>
-      </div>
-    </div>
-    <div class="exp">
-      <div class="exp__role">
-        <h3>Formación</h3>
-        <p class="exp__org">Corporación Universitaria UNITEC</p>
-      </div>
-      <div class="exp__body"></div>
-    </div>
-
-    <div class="stack">
-      <p class="kicker">Stack</p>
-      <ul class="chips chips--lg">
-        <li>WordPress</li><li>Elementor</li><li>HTML · CSS · JS</li><li>Astro</li><li>GSAP</li><li>Google Apps Script</li><li>GA4</li><li>Search Console</li><li>Semrush</li><li>Screaming Frog</li><li>Magento</li><li>Gemini · AI Studio</li><li>Claude</li><li>Git · GitHub</li><li>DNS · Hosting</li>
+    <ul class="chips chips--lg">
+        <li>WordPress</li><li>Elementor</li><li>HTML · CSS · JS</li><li>Astro</li><li>GSAP</li><li>Google Apps Script</li><li>GA4</li><li>Search Console</li><li>Semrush</li><li>Screaming Frog</li><li>Magento</li><li>IA generativa</li><li>Webflow</li><li>Git · GitHub</li><li>DNS · Hosting</li>
       </ul>
-    </div>
   </section>
 
   <!-- FAQ (visible, respalda el FAQPage) -->
@@ -337,7 +331,7 @@
 </main>
 
 <footer class="foot wrap">
-  <p>© <span id="y">2026</span> Sebastián Rovira · ROCAZ</p>
+  <p class="foot__brand"><svg class="logo__mark" viewBox="93 46 79 130" aria-hidden="true"><path d="M95,65 L110.4,56.3 L110.4,173.6 L95,165 Z M110,56.5 L125,48 L140,56.5 L140,73.5 L125.5,82 L140,90.5 L140,104 L125,112.5 L125,99.5 L110,91 L110,90 L125,81.5 L125,65 Z M125,116.5 L155,99 L170,107.5 L170,124.5 L155,133 L155,116.5 L140,108 L140,172.5 L125,164 Z M155,148 L170,156.5 L170,173.5 L140,173.5 L155,165 Z"/></svg>© <span id="y">2026</span> Sebastián Rovira · ROCAZ</p>
   <p class="dim">Hecho a mano, sin plantillas · <a href="llms.txt">llms.txt</a></p>
 </footer>
 
