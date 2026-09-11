@@ -1,0 +1,20 @@
+# Sebastián Rovira (ROCAZ)
+
+> Desarrollador web y especialista en SEO y GEO (Generative Engine Optimization) con base en Bogotá, Colombia. Webmaster territorial para Latinoamérica en ASUS. Disponible para proyectos web freelance en español.
+
+## Servicios
+- Desarrollo web: sitios corporativos y portafolios en WordPress/Elementor o sitios estáticos (Astro, HTML/CSS/JS).
+- SEO técnico: arquitectura, rendimiento, datos estructurados (JSON-LD), auditorías, GA4 y Google Search Console.
+- GEO: contenido y marcado para aparecer en respuestas de motores de IA (ChatGPT, Gemini, Perplexity, AI Overviews).
+- Martech y operación web: email marketing, landings de campaña, localización multi-país y automatización de reportes.
+
+## Proyectos
+- [PG Ingeniería](https://pgingenieria.com/): sitio corporativo en WordPress + Elementor para una firma colombiana de ingeniería eléctrica y tecnología.
+- [LY Fotografía](https://lyfotografia.com/): portafolio de fotografía documental con galerías y visor a medida.
+- Estudio Casa Marín: sitio narrativo de scroll en Astro + GSAP (en desarrollo).
+
+## Contacto
+- [Sitio](https://roviracadena.github.io/)
+- [LinkedIn](https://www.linkedin.com/in/sebastian-rovira-cadena/)
+- [Behance](https://www.behance.net/roviracadena)
+- [GitHub](https://github.com/RoviraCadena)
