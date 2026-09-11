@@ -3,7 +3,7 @@
 > Desarrollador web y especialista en SEO y GEO (Generative Engine Optimization) con base en Bogotá, Colombia. Webmaster territorial para Latinoamérica en ASUS. Disponible para proyectos web freelance en español.
 
 ## Servicios
-- Desarrollo web: sitios corporativos y portafolios en WordPress/Elementor o sitios estáticos (Astro, HTML/CSS/JS).
+- Desarrollo web: sitios corporativos y portafolios en WordPress/Elementor, Webflow o sitios estáticos (Astro, HTML/CSS/JS).
 - SEO técnico: arquitectura, rendimiento, datos estructurados (JSON-LD), auditorías, GA4 y Google Search Console.
 - GEO: contenido y marcado para aparecer en respuestas de motores de IA (ChatGPT, Gemini, Perplexity, AI Overviews).
 - Proyectos con IA: generación de contenido GEO, reportes automatizados y desarrollo con agentes de IA.
@@ -13,7 +13,7 @@
 - [PG Ingeniería](https://pgingenieria.com/): sitio corporativo en WordPress + Elementor para una firma colombiana de ingeniería eléctrica y tecnología.
 - [LY Fotografía](https://lyfotografia.com/): portafolio de fotografía documental con galerías y visor a medida.
 - ASUS Latinoamérica ([CO](https://www.asus.com/co/), [CL](https://www.asus.com/cl/), [PE](https://www.asus.com/pe/)): webmaster territorial de los sitios oficiales en 7 países de la región.
-- [Proximity BBDO](https://www.proximitybbdo.com.co/): sitio de la agencia de la red BBDO en Colombia, incluida la página de talento.
+- [Proximity BBDO](https://www.proximitybbdo.com.co/): desarrollo en Webflow de secciones del sitio de la agencia de la red BBDO en Colombia (casos, equipo, red global y página de talento).
 
 ## Contacto
 - [Sitio](https://roviracadena.github.io/)
