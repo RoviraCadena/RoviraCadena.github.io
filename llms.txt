@@ -11,6 +11,7 @@
 ## Proyectos
 - [PG Ingeniería](https://pgingenieria.com/): sitio corporativo en WordPress + Elementor para una firma colombiana de ingeniería eléctrica y tecnología.
 - [LY Fotografía](https://lyfotografia.com/): portafolio de fotografía documental con galerías y visor a medida.
+- [Proximity BBDO — The People](https://www.proximitybbdo.com.co/talento-proximity): página de talento de la agencia, grilla editorial responsive.
 - Estudio Casa Marín: sitio narrativo de scroll en Astro + GSAP (en desarrollo).
 
 ## Contacto

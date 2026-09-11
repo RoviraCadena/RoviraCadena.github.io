@@ -87,10 +87,11 @@ abbr{text-decoration:none}
 .project--rev .shot{order:2}
 .shot{display:block;text-decoration:none;border:1px solid var(--line);border-radius:var(--r);overflow:hidden;background:var(--bg2);transition:transform .35s,border-color .35s}
 a.shot:hover{transform:translateY(-4px) rotate(-.3deg);border-color:#3a3d45}
-.shot__img{aspect-ratio:16/10.7;position:relative;overflow:hidden;max-width:100%}
+.shot__img{aspect-ratio:3/2;position:relative;overflow:hidden;max-width:100%}
 .shot__img img{width:100%;height:100%;object-fit:cover;object-position:top}
 .shot__img--pg{background:linear-gradient(135deg,#1a2c55,#cb2228)}
 .shot__img--ly{background:linear-gradient(160deg,#10223d,#050608)}
+.shot__img--px{background:#f4f4f4}
 .shot__img--casa{background:radial-gradient(circle at 30% 30%,#e9e3d9,#b9ad9b);display:grid;place-items:center}
 .shot__img--casa span{font:italic 500 clamp(28px,4vw,48px)/1 Georgia,"Times New Roman",serif;color:#2c2620;letter-spacing:-.01em}
 .project__meta{font:13px/1 var(--mono);color:var(--dim);text-transform:uppercase;letter-spacing:.06em;margin-bottom:14px}
