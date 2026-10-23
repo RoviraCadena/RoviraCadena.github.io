@@ -1,22 +1,32 @@
 # Sebastián Rovira (ROCAZ)
 
-> Desarrollador web y especialista en SEO y GEO (Generative Engine Optimization) con base en Bogotá, Colombia. Webmaster territorial para Latinoamérica en ASUS. Disponible para proyectos web freelance en español.
+> Especialista en SEO y GEO (Generative Engine Optimization) con más de 9 años en digital, con base en Bogotá, Colombia. Territorial Webmaster (LATAM) en ASUS: lidera la estrategia orgánica y de búsqueda con IA de los sitios de ASUS y ROG en siete países de Latinoamérica. Abierto a roles remotos de SEO/GEO y a proyectos web freelance, en español e inglés.
+>
+> SEO and GEO specialist (9+ years in digital) based in Bogotá, Colombia. Territorial Webmaster (LATAM) at ASUS, leading organic and AI-search strategy across seven Latin American markets. Open to remote SEO/GEO roles and freelance web projects, in Spanish and English. English version: https://roviracadena.github.io/en/
+
+## Experiencia
+- ASUS — Territorial Webmaster (LATAM), 2024–presente: SEO/GEO de asus.com y rog.asus.com en CO, CL y PE (soporte AR, EC, UY, PY); lanzamientos con FAQs y JSON-LD; Magento 2 y CMS propios; email marketing.
+- Proximity BBDO — Head of MarTech, SEO & Analytics, 2023–2024.
+- OnTheFuze — Front-End Developer (HubSpot, WordPress, Magento), 2023.
+- Consensus International — Senior Webmaster, 2019–2022.
+- Silveragro — E-commerce Specialist (WordPress, Shopify), 2017–2019.
+- Alkosto & Ktronix — E-commerce Designer (Magento), 2017.
 
 ## Servicios
-- Desarrollo web: sitios corporativos y portafolios en WordPress/Elementor, Webflow o sitios estáticos (Astro, HTML/CSS/JS).
-- SEO técnico: arquitectura, rendimiento, datos estructurados (JSON-LD), auditorías, GA4 y Google Search Console.
+- SEO técnico: arquitectura, rendimiento, datos estructurados (JSON-LD), auditorías, GA4, Google Search Console y Semrush.
 - GEO: contenido y marcado para aparecer en respuestas de motores de IA (ChatGPT, Gemini, Perplexity, AI Overviews).
+- Desarrollo web: sitios corporativos y portafolios en WordPress/Elementor, Webflow o sitios estáticos (Astro, HTML/CSS/JS).
 - Proyectos con IA: generación de contenido GEO, reportes automatizados y desarrollo con agentes de IA.
-- Martech y operación web: email marketing, landings de campaña, localización multi-país y automatización de reportes.
+- Martech y operación web: email marketing (Salesforce Marketing Cloud, HubSpot), landings de campaña, localización multi-país.
 
 ## Proyectos
+- ASUS Latinoamérica ([CO](https://www.asus.com/co/), [CL](https://www.asus.com/cl/), [PE](https://www.asus.com/pe/)): sitios oficiales en 7 países de la región.
 - [PG Ingeniería](https://pgingenieria.com/): sitio corporativo en WordPress + Elementor para una firma colombiana de ingeniería eléctrica y tecnología.
+- [Proximity BBDO](https://www.proximitybbdo.com.co/): desarrollo en Webflow de secciones del sitio de la agencia de la red BBDO en Colombia.
 - [LY Fotografía](https://lyfotografia.com/): portafolio de fotografía documental con galerías y visor a medida.
-- ASUS Latinoamérica ([CO](https://www.asus.com/co/), [CL](https://www.asus.com/cl/), [PE](https://www.asus.com/pe/)): webmaster territorial de los sitios oficiales en 7 países de la región.
-- [Proximity BBDO](https://www.proximitybbdo.com.co/): desarrollo en Webflow de secciones del sitio de la agencia de la red BBDO en Colombia (casos, equipo, red global y página de talento).
 
 ## Contacto
-- [Sitio](https://roviracadena.github.io/)
+- [Sitio (ES)](https://roviracadena.github.io/) · [Site (EN)](https://roviracadena.github.io/en/)
 - [LinkedIn](https://www.linkedin.com/in/sebastian-rovira-cadena/)
-- [Behance](https://www.behance.net/roviracadena)
 - [GitHub](https://github.com/RoviraCadena)
+- Email: rovira.cadena@gmail.com
